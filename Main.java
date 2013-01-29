@@ -3,5 +3,6 @@ public class Main {
 		System.out.println("Exemplo de teste de uso do git");
 		System.out.println("Teste de commit no git");
 		System.out.println("Aula de github.");
+		System.out.println("Outro SYSO...");
 	}
 }
